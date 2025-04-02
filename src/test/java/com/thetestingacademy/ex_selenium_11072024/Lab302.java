@@ -1,5 +1,4 @@
-package com.thetestingacademy.ex_selenium;
-import org.openqa.selenium.WebDriver;
+package com.thetestingacademy.ex_selenium_11072024;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class Lab302 {

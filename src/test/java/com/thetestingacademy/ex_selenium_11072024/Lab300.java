@@ -1,4 +1,4 @@
-package com.thetestingacademy.ex_selenium;
+package com.thetestingacademy.ex_selenium_11072024;
 
 public class Lab300 {
     public static void main(String[] args) {
