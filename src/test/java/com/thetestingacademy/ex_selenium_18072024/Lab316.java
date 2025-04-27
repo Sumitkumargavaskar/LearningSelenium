@@ -1,4 +1,4 @@
-package ex_selenium_18072024;
+package com.thetestingacademy.ex_selenium_18072024;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
